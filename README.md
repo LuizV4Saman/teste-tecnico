@@ -7,8 +7,7 @@ O sistema deve ter uma pagina de login com:
 Usuario: admin
 Senha: admin
 Utilizando técnicas de segurança que desejar.
-
-Após o login deve permitor que o usuário insira, visualize, edite e exclua informações de leads (nome, telefone, e-mail e cidade).
+Após o login deve permitor que o usuário insira, visualize, edite e exclua leads (nome, telefone, e-mail e cidade).
 
 ### Requisitos Técnicos:
 1. Utilizar o CodeIgniter 3.
@@ -23,10 +22,10 @@ Após o login deve permitor que o usuário insira, visualize, edite e exclua inf
 1. - Ter página de recuperação de senha.
 
 ##### Página de listagem de leads: 
-1. Uma página onde o usuário pode ver todos os leads existentes.
+1. Uma página onde o usuário pode ver todos os leads existentes. (Utilizar Data Table modelo - BASIC DATA TABLE)
 2. Cada lead deve mostrar o nome, telefone, e-mail e cidade.
 
-##### Adicionar lead: 
+##### Adicionar lead:
 1. Uma página onde o usuário pode adicionar um novo lead, inserindo nome, telefone, e-mail e cidade.
 2. Caso o lead já exista na base, não deve ser acrescentado e uma infomação devera aparecer para o usuario que o lead já exite;
 3. Validação de numero de telefone e e-mail.
@@ -49,4 +48,3 @@ Após o login deve permitor que o usuário insira, visualize, edite e exclua inf
 3. Qualidade do design do banco de dados.
 4. Uso adequado do Git (commits claros e significativos, uso de branches quando apropriado).
 5. Facilidade de configuração e execução do projeto.
-
