@@ -17,25 +17,25 @@ Após o login deve permitor que o usuário insira, visualize, edite e exclua inf
 
 #### Funcionalidades a serem implementadas:
 ##### Página de login:
-1. 1. Uma página onde o usuario pode fazer o login utilizando o usuario: admin e senha: admin;
-1. 2. Essa funcionalidade deve conter técnicas para login.
-1. 3. Diferencial:
-1. 3. 1. Ter página de recuperação de senha.
+1. Uma página onde o usuario pode fazer o login utilizando o usuario: admin e senha: admin;
+1. Essa funcionalidade deve conter técnicas para login.
+1. Diferencial:
+1. - Ter página de recuperação de senha.
 
 ##### Página de listagem de leads: 
-2. 1. Uma página onde o usuário pode ver todos os leads existentes.
-2. 2. Cada lead deve mostrar o nome, telefone, e-mail e cidade.
+1. Uma página onde o usuário pode ver todos os leads existentes.
+2. Cada lead deve mostrar o nome, telefone, e-mail e cidade.
 
 ##### Adicionar lead: 
-3. 1. Uma página onde o usuário pode adicionar um novo lead, inserindo nome, telefone, e-mail e cidade.
-3. 2. Caso o lead já exista na base, não deve ser acrescentado e uma infomação devera aparecer para o usuario que o lead já exite;
-3. 3. Validação de numero de telefone e e-mail.
+1. Uma página onde o usuário pode adicionar um novo lead, inserindo nome, telefone, e-mail e cidade.
+2. Caso o lead já exista na base, não deve ser acrescentado e uma infomação devera aparecer para o usuario que o lead já exite;
+3. Validação de numero de telefone e e-mail.
 
 ##### Editar lead: 
-4. 1. Uma página onde o usuário pode editar as informações de um lead existente.
+1. Uma página onde o usuário pode editar as informações de um lead existente.
 
 ##### Excluir lead: 
-5. 2. O usuário deve ser capaz de excluir um lead existente.
+1. O usuário deve ser capaz de excluir um lead existente.
 
 #### Entrega do Projeto:
 1. O projeto deve ser hospedado em um repositório privado no GitHub. 
